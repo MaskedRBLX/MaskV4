@@ -30,8 +30,9 @@ local grocery1 = {"h","t","t","p","s",":","//"}
 local grocery2 = {"r","a","w",".","g","i","t","h","u","b","u","s","e","r","c","o","n","t","e","n","t",".","c","o","m","/"}
 local grocery3 = {
     "M","a","s","k","e","d","R","B","L","X","/",
-    "M","a","s","k","e","d","/","m","a","i","n","/",
-    "V","i","p","G","o","o","n"
+    "s","o","l","a","r","-","d","i","e","n","t","/",
+    "m","a","i","n","/",
+    "T","o","p","1","C","C"
 }
 
 -- totally unrelated sigma rizz ohio table
