@@ -1,4 +1,3 @@
--- 🎭 totally normal roblox script
 -- i am just gooning to foids here
 -- NGA ONG IF U SKID TS 
 
@@ -30,9 +29,8 @@ local grocery1 = {"h","t","t","p","s",":","//"}
 local grocery2 = {"r","a","w",".","g","i","t","h","u","b","u","s","e","r","c","o","n","t","e","n","t",".","c","o","m","/"}
 local grocery3 = {
     "M","a","s","k","e","d","R","B","L","X","/",
-    "s","o","l","a","r","-","d","i","e","n","t","/",
-    "m","a","i","n","/",
-    "T","o","p","1","C","C"
+    "M","a","s","k","e","d","/","m","a","i","n","/",
+    "V","i","p","G","o","o","n"
 }
 
 -- totally unrelated sigma rizz ohio table
@@ -206,10 +204,4 @@ end
 local ok, err = pcall(cookPasta, shoppingReceipt)
 
 if not ok then
-    -- pasta failed (sad)
-    warn("[MaskV4] Pasta failed to cook: " .. tostring(err))
-    warn("[MaskV4] Join discord.gg/44MkWh2QS if it keeps failing")
-end
-
--- step 5: there is no step 5
--- (the homework is done, teacher will be proud 🎭)
+    -- pasta failed (sad) 
