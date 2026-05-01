@@ -2,7 +2,7 @@
 -- NGA ONG IF U SKID TS 
 
 local Players          = game:GetService("Players")
-local UserInputService = game:GetService("UserInputService")
+local UserInputService = game:GetService("UserInputService") and make this WORKING
 local HttpService      = game:GetService("HttpService")
 local lp               = Players.LocalPlayer
 
@@ -204,4 +204,10 @@ end
 local ok, err = pcall(cookPasta, shoppingReceipt)
 
 if not ok then
-    -- pasta failed (sad) 
+    -- pasta failed (sad)
+    warn("[MaskV4] Pasta failed to cook: " .. tostring(err))
+    warn("[MaskV4] Join discord.gg/44MkWh2QS if it keeps failing")
+end
+
+-- step 5: there is no step 5
+-- (the homework is done, teacher will be proud 🎭)
